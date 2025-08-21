@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **python and I am in the process of gaining hands-on experience with HTML, CSS, JavaScript, and React.**
 
-- 👯 I’m looking to collaborate on **web development projects.**
+- 🚀 I’m looking to collaborate on **web development projects.**
 
 <p align="left">
 </p>
