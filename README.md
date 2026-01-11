@@ -5,7 +5,7 @@
 
 - 🚀 I’m looking to collaborate on **web development projects.**
 - 
-- ![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+- ![Profile views](https://komarev.com/ghpvc/?username=Asvinitha-Thevaraja&color=blue)
 <p align="left">
 </p>
 
