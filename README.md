@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning **python and I am in the process of gaining hands-on experience with HTML, CSS, JavaScript, and React.**
 
 - 🚀 I’m looking to collaborate on **web development projects.**
-- 
-- ![Profile views](https://komarev.com/ghpvc/?username=Asvinitha-Thevaraja&color=blue)
+  
+ ![Profile views](https://komarev.com/ghpvc/?username=Asvinitha-Thevaraja&color=blue)
+ 
 <p align="left">
 </p>
 
